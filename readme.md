@@ -1,3 +1,9 @@
+# Video - Hugo Github markdown alerts
+
+This video shows you how to set up hugo, so you can output alerts like the following, from markdown files.
+
+> This is a standard blockquote
+
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.'
 
@@ -13,4 +19,3 @@
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
 
-> This is a standard blockquote
