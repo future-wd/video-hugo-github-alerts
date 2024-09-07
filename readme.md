@@ -1,5 +1,7 @@
 # Video - Hugo Github markdown alerts
 
+Watch the video here https://youtu.be/UhTtKF-ZkpQ
+
 This video shows you how to set up hugo, so you can output alerts like the following, from markdown files.
 
 > This is a standard blockquote
